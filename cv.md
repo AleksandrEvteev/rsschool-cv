@@ -28,6 +28,7 @@ I have not
 
 **Education**
 Russian University of Transport - Quality Engineer
+
 **Language**
 - English - B1
 - Russian - native speaker
