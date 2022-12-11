@@ -1,6 +1,6 @@
 #Alexander Evteev
 ***
-**My contact info:**
+***My contact info:***
 **Phone: **
 +7-909-163-24-63
 **GitHub: **
