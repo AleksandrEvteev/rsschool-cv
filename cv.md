@@ -1,13 +1,13 @@
-#Alexander Evteev
+# Alexander Evteev
 ***
 ***My contact info:***
-**Phone: **
+**Phone:**
 +7-909-163-24-63
-**GitHub: **
+**GitHub:**
 AleksandrEvteev
-**Discord: **
+**Discord:**
 AleksandrEvteev
-**E-mail: **
+**E-mail:**
 79091632463@ya.ru
 **About me:**
 I'm 32 years. Now I'm free and decided to try the frontend.
